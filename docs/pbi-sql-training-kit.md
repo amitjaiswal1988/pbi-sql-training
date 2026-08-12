@@ -1,5 +1,7 @@
 # Power BI + SQL Training Kit
 
-This note captures the training kit screenshot and keeps the reference in an industry-style location and filename.
+The complete master training kit now lives here:
 
-Use this file as the stable document reference for the training workspace.
+- [pbi-sql-training-kit-full.md](pbi-sql-training-kit-full.md)
+
+That file contains all 8 parts (Welcome, Pre-flight, AI workflow, Weeks 1–3 / Days 1–21, the PL-300 guide, and Appendices A–I) in clean markdown.
